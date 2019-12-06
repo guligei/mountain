@@ -1,8 +1,8 @@
 # Table of contents
 
 * [高山流水](README.md)
-* [虚假真实-强弱](xu-jia-zhen-shi-qiang-ruo/README.md)
-  * [平缓与湍急-临界点](xu-jia-zhen-shi-qiang-ruo/ping-huan-yu-tuan-ji-lin-jie-dian.md)
+* [虚假真实-强弱](xu-jia-zhen-shi-qiang-ruo.md)
+* [平缓与湍急-临界点](ping-huan-yu-tuan-ji-lin-jie-dian.md)
 * [感想-为结果负责](gan-xiang-wei-jie-guo-fu-ze.md)
 * [商业社会-全局观](shang-ye-she-hui-quan-ju-guan.md)
 * [软件的使命-connect](ruan-jian-de-shi-ming-connect.md)
