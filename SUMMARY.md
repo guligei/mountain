@@ -223,4 +223,7 @@
 * [选择与失去](xuan-ze-yu-shi-qu.md)
 * [激发-超越](ji-fa-chao-yue.md)
 * [日铸岭-激发](ri-zhu-ling-ji-fa.md)
+* [不确定-选择-固化](bu-que-ding-xuan-ze-gu-hua.md)
+* [竞争的心](jing-zheng-de-xin.md)
+* [目录](mu-lu.md)
 
